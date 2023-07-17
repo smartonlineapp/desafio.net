@@ -1,3 +1,4 @@
+![logo-smartonline](https://www.smartonline.app/logo.a3cd84b4d14610f7.png)
 ## Desafio para vaga desenvolvedor .NET
 
 Por favor leiam este documento do começo ao fim, com muita atenção.<br/>
