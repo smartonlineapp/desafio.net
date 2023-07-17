@@ -21,7 +21,7 @@ Sua tarefa é criar uma interface web que aceite upload do [arquivo CNAB](https:
 **Sua aplicação Web Deve:**
 
 1. Ter uma tela (_via um formulário_) para fazer o upload do arquivo (_pontos extras se não usar um popular CSS Framework_);
-2. Interpretar ("_parsear_") o arquivo recebido, normalizar os dados, e salvar corretamente a informação em um banco de dados relacional, **se atente as documentações** que estão logo abaixo;
+2. Interpretar ("_parsear_") o arquivo recebido, normalizar os dados, e salvar corretamente a informação em um banco de dados, **se atente as documentações** que estão logo abaixo;
 3. Verificar se os dados de CPF está válido;
 4. Exibir uma lista das operações importadas por lojas, e nesta lista deve conter um totalizador do saldo em conta;
 5. Exibir uma lista das operações que deram errados;
