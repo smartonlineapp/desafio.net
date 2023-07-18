@@ -18,7 +18,7 @@ Você recebeu um arquivo CNAB com os dados das movimentações finanaceiras de v
 
 É necessário que estes dados sejam importados para um banco de dados.
 
-Sua tarefa é criar uma interface web que aceite upload do [arquivo CNAB](https://github.com/smartonlineapp/desafio.net/blob/main/CNAB.txt), normalize os dados e armazene-os em um banco de dados relacional ou NoSQL e exiba essas informações em tela.
+Sua tarefa é criar uma interface web que aceite upload do arquivo [CNAB](https://github.com/smartonlineapp/desafio.net/blob/main/CNAB.txt), normalize os dados e armazene-os em um banco de dados relacional ou NoSQL e exiba essas informações em tela.
 
 ## Documentação do CNAB
 
