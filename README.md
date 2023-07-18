@@ -35,7 +35,7 @@ Sua tarefa é criar uma interface web que aceite upload do [arquivo CNAB](https:
 **Sua aplicação Web não precisa:**
 
 1. Lidar com autenticação ou autorização (_pontos extras se ela fizer, mais pontos extras se a autenticação for feita via OAuth_);
-2. Documentação da api. (_será um diferencial e pontos extras se fizer_);
+2. Documentação da api (_será um diferencial e pontos extras se fizer_);
 3. Ter testes automatizados (_opcional - pontos extras se utilizar_);
 4. Docker compose (_opcional - pontos extras se utilizar_).
 
@@ -62,7 +62,7 @@ Sua tarefa é criar uma interface web que aceite upload do [arquivo CNAB](https:
 
 ## Avaliação
 
-Seu projeto será avaliado de acordo com os seguintes critérios.
+Seu projeto será avaliado de acordo com os seguintes critérios:
 
 1. Sua aplicação preenche os requesitos básicos?
 2. Você documentou a maneira de configurar o ambiente e rodar sua aplicação?
