@@ -58,20 +58,13 @@ Sua tarefa é criar uma interface web que aceite upload do [arquivo CNAB](https:
 **Você ganhará pontos adicionais se:**
 
 1. Lidar com autenticação ou autorização (mais pontos extras se a autenticação for feita via OAuth);
-2. Documentar sua API
-3. Desenvolver testes automatizados
-4. Utilizar Docker Compose
+2. Documentar sua API;
+3. Desenvolver testes automatizados;
+4. Utilizar Docker Compose.
 
 ## Avaliação
 
-Seu projeto será avaliado de acordo com os seguintes critérios:
-
-1. Sua aplicação preenche os requesitos básicos?
-2. Você documentou a maneira de configurar o ambiente e rodar sua aplicação?
-3. Você seguiu as instruções de envio do desafio?
-4. Qualidade e cobertura dos testes unitários (_opcional_).
-
-Adicionalmente, tentaremos verificar a sua familiarização com as bibliotecas padrões (_standard libs_), bem como sua experiência com programação orientada a objetos a partir da estrutura de seu projeto.
+Avaliaremos a sua familiarização com as bibliotecas padrões (_standard libs_), bem como sua experiência com programação orientada a objetos a partir da estrutura de seu projeto.
 
 ---
 
