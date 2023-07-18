@@ -20,7 +20,7 @@ Sua tarefa é criar uma interface web que aceite upload do [arquivo CNAB](https:
 
 **Sua aplicação Web Deve:**
 
-1. Ter uma tela (_via um formulário_) para fazer o upload do arquivo (_pontos extras se não usar um popular CSS Framework_);
+1. Ter uma tela (_via um formulário_) para fazer o upload do arquivo;
 2. Interpretar ("_parsear_") o arquivo recebido, normalizar os dados, e salvar corretamente a informação em um banco de dados, **se atente as documentações** que estão logo abaixo;
 3. Verificar se os dados de CPF estão válidos;
 4. Exibir uma lista das operações importadas por lojas, e nesta lista deve conter um totalizador do saldo em conta;
@@ -35,10 +35,9 @@ Sua tarefa é criar uma interface web que aceite upload do [arquivo CNAB](https:
 **Sua aplicação Web não precisa:**
 
 1. Lidar com autenticação ou autorização (_pontos extras se ela fizer, mais pontos extras se a autenticação for feita via OAuth_);
-2. Não ser escrita usando algum framework específico (_mas não há nada errado em usá-los também, use o que achar melhor_);
-3. Documentação da api. (_será um diferencial e pontos extras se fizer_);
-4. Ter testes automatizados (_opcional - pontos extras se utilizar_);
-5. Docker compose (_opcional - pontos extras se utilizar_).
+2. Documentação da api. (_será um diferencial e pontos extras se fizer_);
+3. Ter testes automatizados (_opcional - pontos extras se utilizar_);
+4. Docker compose (_opcional - pontos extras se utilizar_).
 
 ## Documentação do CNAB
 
