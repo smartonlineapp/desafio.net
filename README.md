@@ -4,7 +4,7 @@
 
 Por favor leia este documento do começo ao fim, com muita atenção. O intuito deste teste é avaliar seus conhecimentos técnicos de programação.
 
-O teste consiste em parsear este arquivo de texto [CNAB](https://github.com/smartonlineapp/desafio.net/blob/main/CNAB.txt) e salvar suas informações (transações financeiras) em uma base de dados a seu critério.
+O teste consiste em parsear este arquivo de texto [CNAB](https://github.com/smartonlineapp/desafio.net/blob/main/CNAB.txt) e salvar suas informações (_transações financeiras_) em uma base de dados a seu critério.
 
 ## Entrega do desafio
 
@@ -51,13 +51,13 @@ Sua tarefa é criar uma interface web que aceite upload do arquivo [CNAB](https:
 6. Ser escrita obrigatoriamente em .NET em versões recentes, pode ser .NET Core, ASP.MVC, etc;
 7. Ser simples de configurar e rodar. Ela deve utilizar apenas linguagens e bibliotecas livres ou gratuitas;
 8. Git com commits atomicos e bem descritos;
-9. PostgreSQL, MySQL, SQL Server ou MongoDb (pode usar qualquer banco relacional ou NoSQL, lembrando que o NoSQL é opcional);
+9. PostgreSQL, MySQL, SQL Server ou MongoDb (_pode usar qualquer banco relacional ou NoSQL, lembrando que o NoSQL é opcional_);
 10. Readme file descrevendo bem o projeto e seu setup;
 11. Incluir informação descrevendo como consumir o endpoint da API.
 
 **Você ganhará pontos adicionais se:**
 
-1. Lidar com autenticação ou autorização (mais pontos extras se a autenticação for feita via OAuth);
+1. Lidar com autenticação ou autorização (_mais pontos extras se a autenticação for feita via OAuth_);
 2. Documentar sua API;
 3. Desenvolver testes automatizados;
 4. Utilizar Docker Compose.
