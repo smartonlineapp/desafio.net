@@ -1,4 +1,4 @@
-![logo-smartonline](https://www.smartonline.app/logo.a3cd84b4d14610f7.png)
+![logo-smartonline](https://hub.smartonline.app/favicon.ico)
 
 ## Desafio para vaga desenvolvedor .NET
 
